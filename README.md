@@ -67,8 +67,6 @@ java -jar dist/FlappyBirdRevived.jar
 
 <img width="524" height="291" alt="image" src="https://github.com/user-attachments/assets/f42ccdb7-1f98-40a5-a108-35b533db58bf" />
 
-<img width="524" height="291" alt="image" src="https://github.com/user-attachments/assets/9a42caa7-1fbc-4d9a-b0a8-04027dad46b1" />
-
 <img width="524" height="291" alt="image" src="https://github.com/user-attachments/assets/eb39ca71-0094-4b36-8ecb-e7f24ba11800" />
 
 
